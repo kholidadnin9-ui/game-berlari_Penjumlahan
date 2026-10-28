@@ -1,0 +1,6 @@
+{
+  "name": "MATH ADVENTURE: SUBWAY RUNNER",
+  "description": "Game edukasi matematika interaktif 3D endless runner untuk siswa Kelas 2 SD di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
